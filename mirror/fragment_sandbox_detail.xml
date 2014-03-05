@@ -1,0 +1,12 @@
+<!-- Generated template screen file. Fill the id tags below with content
+with which to populate your previewed layout. For help with sample
+data, please see http://jimulabs.com/sample-data-specifications/ -->
+<screen>
+    <_content layout="@layout/fragment_sandbox_detail">
+        <company_name></company_name>
+        <company_subtitle></company_subtitle>
+        <company_logo></company_logo>
+        <company_desc></company_desc>
+        <company_url></company_url>
+    </_content>
+</screen>

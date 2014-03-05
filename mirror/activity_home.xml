@@ -1,0 +1,17 @@
+<!-- Generated template screen file. Fill the id tags below with content
+with which to populate your previewed layout. For help with sample
+data, please see http://jimulabs.com/sample-data-specifications/ -->
+<screen>
+    <actionbar showTabsFor="@id/pager"/>
+    <_content layout="@layout/activity_home">
+        <pager>
+            <!-- Add pages to your ViewPager here like so:
+            <_page title="page title" icon="@drawable/my_icon"/>
+            <_page layout="@layout/my_page_layout">
+                <my_image_view src="@drawable/my_image"/>
+            </_page>
+            -->
+        </pager>
+        <fragment_whats_on></fragment_whats_on>
+    </_content>
+</screen>

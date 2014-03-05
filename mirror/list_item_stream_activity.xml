@@ -1,0 +1,13 @@
+<!-- Generated template screen file. Fill the id tags below with content
+with which to populate your previewed layout. For help with sample
+data, please see http://jimulabs.com/sample-data-specifications/ -->
+<screen>
+    <_content layout="@layout/list_item_stream_activity">
+        <stream_user_pic></stream_user_pic>
+        <stream_user_name></stream_user_name>
+        <stream_retweets></stream_retweets>
+        <stream_user_handle></stream_user_handle>
+        <stream_timestamp></stream_timestamp>
+        <stream_content></stream_content>
+    </_content>
+</screen>

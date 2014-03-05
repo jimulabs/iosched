@@ -1,0 +1,12 @@
+<!-- Generated template screen file. Fill the id tags below with content
+with which to populate your previewed layout. For help with sample
+data, please see http://jimulabs.com/sample-data-specifications/ -->
+<screen>
+    <_content layout="@layout/list_item_schedule_block">
+        <block_time></block_time>
+        <block_endtime></block_endtime>
+        <block_title></block_title>
+        <block_subtitle></block_subtitle>
+        <extra_button></extra_button>
+    </_content>
+</screen>

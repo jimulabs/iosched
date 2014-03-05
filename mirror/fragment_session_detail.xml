@@ -1,0 +1,16 @@
+<!-- Generated template screen file. Fill the id tags below with content
+with which to populate your previewed layout. For help with sample
+data, please see http://jimulabs.com/sample-data-specifications/ -->
+<screen>
+    <_content layout="@layout/fragment_session_detail">
+        <session_title></session_title>
+        <session_subtitle></session_subtitle>
+        <session_abstract></session_abstract>
+        <add_to_schedule_button_placeholder></add_to_schedule_button_placeholder>
+        <session_speakers_block></session_speakers_block>
+        <session_requirements></session_requirements>
+        <session_links_header></session_links_header>
+        <links_container></links_container>
+        <android-empty></android-empty>
+    </_content>
+</screen>

@@ -1,0 +1,21 @@
+<!-- Generated template screen file. Fill the id tags below with content
+with which to populate your previewed layout. For help with sample
+data, please see http://jimulabs.com/sample-data-specifications/ -->
+<screen>
+    <_content layout="@layout/fragment_session_feedback">
+        <session_title></session_title>
+        <session_rating_container></session_rating_container>
+        <session_feedback_q1_container></session_feedback_q1_container>
+        <session_feedback_q2_container></session_feedback_q2_container>
+        <session_feedback_q3_container></session_feedback_q3_container>
+        <session_feedback_q4></session_feedback_q4>
+        <session_feedback_comments></session_feedback_comments>
+        <submit_feedback_button>
+            <!-- Replace this FrameLayout with a fragment like so:
+            <_content layout="@layout/my_fragment_layout">
+                <my_text_view>TextView in fragment</my_text_view>
+            </_content>
+            -->
+        </submit_feedback_button>
+    </_content>
+</screen>

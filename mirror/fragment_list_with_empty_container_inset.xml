@@ -1,0 +1,21 @@
+<!-- Generated template screen file. Fill the id tags below with content
+with which to populate your previewed layout. For help with sample
+data, please see http://jimulabs.com/sample-data-specifications/ -->
+<screen>
+    <_content layout="@layout/fragment_list_with_empty_container_inset">
+        <android-empty>
+            <!-- Replace this FrameLayout with a fragment like so:
+            <_content layout="@layout/my_fragment_layout">
+                <my_text_view>TextView in fragment</my_text_view>
+            </_content>
+            -->
+        </android-empty>
+        <android-list>
+            <items>
+                <_item layout="@android:layout/simple_list_item_1" count="3">
+                    <text1>sample item</text1>
+                </_item>
+            </items>
+        </android-list>
+    </_content>
+</screen>
